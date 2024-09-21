@@ -6,10 +6,10 @@ I've got some free hours each week to offer code mentoring, reviews, pair progra
 
 I'm all about:
 
-🚀 AWS Cloud Computing and DevOps
-📊 SQL, Firestore, PostgreSQL, Redis, Queue managment
-⚙️ AWS Serverless Architechture
-💻 JavaScript, TypeScript, Python, Django, Solidity
-🤖 Data science AI, ChatGPT, Blockchain
+- 🚀 AWS Cloud Computing and DevOps
+- 📊 SQL, Firestore, PostgreSQL, Redis, Queue managment
+- ⚙️ AWS Serverless Architechture
+- 💻 JavaScript, TypeScript, Python, Django, Solidity
+- 🤖 Data science AI, ChatGPT, Blockchain
 
 Join me on [Linkedin](https://www.linkedin.com/in/srujan-kachhwaha-3098a2189/) Or, send me a message on [WhatsApp](https://wa.me/918982938400). 🚀
